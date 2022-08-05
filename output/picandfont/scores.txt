@@ -1,0 +1,5 @@
+null 0
+ james(red) 10
+ alex(blue) 10
+ emma(yellow) 10
+ sara(pink) 10
